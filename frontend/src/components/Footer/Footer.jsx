@@ -9,10 +9,7 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque
-            nostrum iure suscipit maiores non harum incidunt unde magnam
-            molestias ipsum qui vel aut natus aspernatur ipsa dignissimos,
-            numquam assumenda deserunt.
+            Hungry? We've got you covered! From street food to fine dining, Tomato brings your favorite meals right to your doorstep—fresh, fast, and full of flavor. Whether it’s a quick snack, a comforting meal with family, or a midnight craving that just can’t wait, Tomato makes it happen. With seamless ordering, speedy delivery, and food always prepared with care, we’re here to make sure hunger never stands in your way. Tomato—more than food, it’s happiness delivered.
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
